@@ -1,0 +1,19 @@
+{
+  "title": "ERA5 Climate Data for Arabic Region (2000-2025)",
+  "id": "fatimasalman/era5-arabic-climate-2000-2025",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "era5_arabic_2000_2025.nc",
+      "description": "Main climate dataset with temperature and precipitation"
+    },
+    {
+      "path": "climate_trends_analysis.nc",
+      "description": "Analysis results including annual and monthly trends"
+    }
+  ]
+}
